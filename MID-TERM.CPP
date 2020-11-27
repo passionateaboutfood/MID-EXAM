@@ -1,4 +1,4 @@
-#include"object.h
+#include"object.h"
 
 Pasien* createNewPasien(int date,int year,char *month,char *name){
     Pasien *temp = (Pasien *)malloc(sizeof(Pasien);
